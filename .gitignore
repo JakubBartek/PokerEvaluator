@@ -52,3 +52,6 @@ Mkfile.old
 dkms.conf
 
 ./poker_evaluator
+
+# VS Code
+.vscode/
